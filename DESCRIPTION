@@ -17,3 +17,5 @@ Depends:
     R (>= 3.5)
 LazyData: true
 VignetteBuilder: knitr
+URL: https://github.com/DarkirrSmart/helloPkg
+BugReports: https://github.com/DarkirrSmart/helloPkg/issues
