@@ -1,0 +1,10 @@
+Package: helloPkg
+Title: Pierwszy pakiet witający
+Version: 0.0.0.9000
+Authors@R: 
+    person("Norbert", "M", , "norbert@example.com", role = c("aut"))
+Description: To jest pierwzy pakiet utworzyny w celu poznania sposobu pracy nad pakietami.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
